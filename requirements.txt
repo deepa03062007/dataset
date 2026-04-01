@@ -1,6 +1,6 @@
+
 fastapi
 uvicorn
-
-numpy
+tensorflow==2.13.0
 pillow
-googletrans==4.0.0-rc1
+numpy
